@@ -1,4 +1,4 @@
-![Cover](https://github.com/KonradWohlfahrt/Data-Glove/blob/main/images/Cover.jpg)
+![Cover](https://github.com/KonradWohlfahrt/Data-Glove/blob/main/images/Cover.JPG)
 
 # Data Glove
 **In this repository you will find the project files for the Data Glove:** A wearable to control your bluetooth devices by hand movement and gestures. It includes the [XIAO nRF52840](https://www.seeedstudio.com/Seeed-XIAO-BLE-nRF52840-p-5201.html) microcontroller with five hall sensors and a couple of peripherals. A lipo battery makes this project portable while all the components are  mounted on a bicycle glove. Hall sensors vary the output voltage depending on the strength of the magnetic field. Thus, a change of your finger position can be recognized and interpreted by the microcontroller to, for example, send a command to your phone to increase or decrease the volume. The XIAO is very powerful with rich features and libraries. I have included a few examples for you to try out, but expanding upon them and creating your own applications is simple and fast too!
@@ -33,7 +33,7 @@ Finally, the printed circuit boards and the XIAO microcontroller were sponsored 
 # Schematic and PCB:
 ![Schematic](https://github.com/KonradWohlfahrt/Data-Glove/blob/main/images/Schematic_DataGlove.png)
 _Schematic_
-![PCB](https://github.com/KonradWohlfahrt/Data-Glove/blob/main/images/PCB_DataGlove.jpg)
+![PCB](https://github.com/KonradWohlfahrt/Data-Glove/blob/main/images/PCB_DataGlove.JPG)
 _The soldered pcb inside of the housing_
 
 ***
@@ -46,6 +46,6 @@ You can directly use the usb c port for programming without any other external d
 - `DataGloveFlashlight` -> LED illuminates when forming a fist
 - `DataGloveCamerashutter` -> take a photo by double pressing
 
-![Data Glove](https://github.com/KonradWohlfahrt/Data-Glove/blob/main/images/SerialOutput_DataGlove.jpg)
+![Data Glove](https://github.com/KonradWohlfahrt/Data-Glove/blob/main/images/SerialOutput_DataGlove.JPG)
 _Testing the hall sensors_
-![Data Glove](https://github.com/KonradWohlfahrt/Data-Glove/blob/main/images/DataGlove.jpg)
+![Data Glove](https://github.com/KonradWohlfahrt/Data-Glove/blob/main/images/DataGlove.JPG)
