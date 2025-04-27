@@ -2,7 +2,7 @@
 
 # Data Glove
 **In this repository you will find the project files for the Data Glove:** A wearable to control your bluetooth devices by hand movement and gestures. It includes the [XIAO nRF52840](https://www.seeedstudio.com/Seeed-XIAO-BLE-nRF52840-p-5201.html) microcontroller with five hall sensors and a couple of peripherals. A lipo battery makes this project portable while all the components are  mounted on a bicycle glove. Hall sensors vary the output voltage depending on the strength of the magnetic field. Thus, a change of your finger position can be recognized and interpreted by the microcontroller to, for example, send a command to your phone to increase or decrease the volume. The XIAO is very powerful with rich features and libraries. I have included a few examples for you to try out, but expanding upon them and creating your own applications is simple and fast too!
-If you want more information and potentially build one yourself too, you can check out the in-depth [blog](https://www.instructables.com/) on Instructables.
+If you want more information and potentially build one yourself too, you can check out the in-depth [blog](https://www.instructables.com/The-Data-Glove-Control-Bluetooth-Devices-With-Gest/) on Instructables.
 Finally, the printed circuit boards and the XIAO microcontroller were sponsored by [Seeed Studio](https://www.seeedstudio.com/)! They offer a huge variety of microcontrollers, development boards and services for makers! The XIAO series is a small but powerful set of microcontrollers for any project. The size makes it ideal for tiny battery powered iot applications or ble controllers! Thanks to Seeed Studio and without further ado let me quickly give you an overview of the project:
 
 ***
